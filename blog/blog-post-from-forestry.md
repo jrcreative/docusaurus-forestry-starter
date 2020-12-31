@@ -1,12 +1,13 @@
 ---
 tags: []
-id: vandev1
-title: Blog Post from Forestry
-author: jeremy
-author_title: ''
-author_url: ''
+title: A Website is Like a Garden
+author: Jeremy Ross
+author_title: 'Director of Web'
+author_url: 'https://gtma.agency'
 author_image_url: ''
 slug: vandev-test
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis ante vitae magna rhoncus tempus. Cras quis mattis sem, et facilisis purus. Duis nunc elit, aliquam sit amet libero in, dignissim tempor justo. Mauris dignissim blandit dui nec condimentum. Duis in consequat mi, quis dapibus quam. Morbi eu ligula nec nunc placerat porttitor vitae in nisl. Proin pulvinar metus nec enim euismod dapibus. Maecenas ac turpis quis nisl pulvinar imperdiet. 
+## A website is like a garden
+
+### Planting is just the beginning.
