@@ -1,7 +1,7 @@
 module.exports = {
   title: 'VanDev Knowledge Base',
   tagline: 'Docs and process for VanDevs',
-  url: 'https://docusaurus.ndvr.site',
+  url: 'https://vandev.ndvr.site',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'jrcreative', // Usually your GitHub org/user name.
