@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'vandev docs',
+  tagline: 'Docs and process for VanDevs',
+  url: 'https://docusaurus.ndvr.site',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'jrcreative', // Usually your GitHub org/user name.
+  projectName: 'docusaurus-forestry-starter', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'VanDevs Docs',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'vandevs logo',
         src: 'img/logo.svg',
       },
       items: [
