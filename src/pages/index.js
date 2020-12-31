@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>Colloborate with your friendly neighborhood devs</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Vancouver, WA is a great place to be a developer. Collaborate, commiserate and celebrate with a group of folks that "get you."
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>Learn from those a step ahead</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Soak it in. There's always more to learn in this field, and it's impossible to keep up. Join a group of like-minded folks that can help navigate what's coming, and what's going.
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>Teach what you know</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        The best way to learn something is to teach it to someone else. Share what you know to benefit others, and lock in your own skils.
       </>
     ),
   },
@@ -48,7 +45,7 @@ function Feature({imageUrl, title, description}) {
           <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
-      <h3>{title}</h3>
+      <h2>{title}</h2>
       <p>{description}</p>
     </div>
   );
