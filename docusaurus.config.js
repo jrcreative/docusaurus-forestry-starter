@@ -57,7 +57,7 @@ module.exports = {
           items: [
             {
               label: 'Twitter',
-              href: 'https://twitter.com/vandevs',
+              href: 'https://twitter.com/devs_van',
             },
           ],
         },
