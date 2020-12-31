@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'vandev docs',
+  title: 'VanDev Knowledge Base',
   tagline: 'Docs and process for VanDevs',
   url: 'https://docusaurus.ndvr.site',
   baseUrl: '/',
@@ -10,8 +10,8 @@ module.exports = {
     navbar: {
       title: 'VanDevs Docs',
       logo: {
-        alt: 'vandevs logo',
-        src: 'img/logo.svg',
+        alt: 'Van Dev Logo',
+        src: 'img/vandevlogo.png',
       },
       items: [
         {
