@@ -28,6 +28,18 @@ module.exports = {
         },
       ],
     },
+    algolia: {
+      apiKey: '79fcd0882d08a9e2cc91fe63aa949d2d',
+      indexName: 'vandevs',
+
+      // Optional: see doc section bellow
+      contextualSearch: false,
+
+      // Optional: Algolia search parameters
+      searchParameters: {},
+
+      //... other Algolia params
+    },
     footer: {
       style: 'dark',
       links: [
@@ -86,13 +98,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.json'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/jrcreative/docusaurus-forestry-starter/edit/master/website/',
+            'https://github.com/jrcreative/docusaurus-forestry-starter/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/jrcreative/docusaurus-forestry-starter/edit/master/website/blog/',
+            'https://github.com/jrcreative/docusaurus-forestry-starter/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
