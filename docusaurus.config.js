@@ -50,23 +50,11 @@ module.exports = {
               label: 'Style Guide',
               to: 'docs/',
             },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
           ],
         },
         {
           title: 'Community',
           items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/vandevs',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/vandevs',
-            },
             {
               label: 'Twitter',
               href: 'https://twitter.com/vandevs',
