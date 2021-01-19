@@ -1,5 +1,5 @@
 ---
-tags: [website]
+tags: [general]
 title: Contribute to the Knowledge Base
 author: Jeremy Ross
 author_title: 'Director of Web'
@@ -11,6 +11,7 @@ slug: contributing-to-kb
 ## Getting Access
 If you're intersted in contributing, reach out to me (Jeremy Ross), in the VanDevs slack channel with your github user and we'll get you set up.
 
+<!--truncate-->
 ## What are we looking for?
 
 ### Contribute to the KB
