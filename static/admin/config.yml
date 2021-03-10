@@ -1,0 +1,38 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: static/img
+public_folder: /ing
+collections:
+  - name: 'docs'
+    label: 'Docs'
+    label_singular: 'Doc'
+    folder: 'docs/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Author', name: 'author', widget: 'string'}
+      - { label: 'Author Title', name: 'author_title', widget: 'string'}
+      - { label: 'Author Website', name: 'author_url', widget: 'string'}
+      - { label: 'Author Image', name: 'author_image_url', widget: 'image'}
+      - { label: 'Slug', name: 'slug', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'blog'
+    label: 'Blog Posts'
+    label_singular: 'Blog Post'
+    folder: 'blog/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Author', name: 'author', widget: 'string'}
+      - { label: 'Author Title', name: 'author_title', widget: 'string'}
+      - { label: 'Author Website', name: 'author_url', widget: 'string'}
+      - { label: 'Author Image', name: 'author_image_url', widget: 'image'}
+      - { label: 'Slug', name: 'slug', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

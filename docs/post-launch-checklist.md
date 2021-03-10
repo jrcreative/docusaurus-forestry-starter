@@ -1,5 +1,4 @@
 ---
-tags: [website]
 title: Post-Launch Checklist
 author: Jeremy Ross
 author_title: 'Director of Web'
@@ -7,6 +6,7 @@ author_url: 'https://gtma.agency'
 author_image_url: ''
 slug: postlaunch-list
 sidebar_label: Post-Launch Checklist
+tags: [website]
 ---
 Step 1 of the post-launch checklist is to celebrate! You just launched a site. Something that takes a lot of people and a lot of time to accomplish. Take a moment to enjoy what you've created before you dive back in and get to work on the next thing!
 

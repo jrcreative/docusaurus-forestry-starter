@@ -1,10 +1,10 @@
 ---
-tags: [general]
 title: Contribute to the Knowledge Base
 author: Jeremy Ross
 author_title: 'Director of Web'
 author_url: 'https://gtma.agency'
 author_image_url: ''
+tags: [general]
 slug: contributing-to-kb
 ---
 
